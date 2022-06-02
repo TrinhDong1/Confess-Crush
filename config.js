@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gửi Ý cute🥰",
+    titleWeb: "Gửi Ngọc Ý cute🥰",
     introTitle: 'Phan Thị Ngọc Ý',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
